@@ -12,6 +12,7 @@ Features include:
 
 ## Setup/Installation
 Depends on [guzzlehttp/guzzle](https://packagist.org/packages/guzzlehttp/guzzle).  
+
 Get via Composer...
 Get a stable release:  
 `composer require donutdan4114/shopify:v2020.01.*`
