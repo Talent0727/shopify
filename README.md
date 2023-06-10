@@ -34,7 +34,6 @@ The "resource pager" which automatically loops through pages will handle this ch
 If you have custom code using the `page` param you'll need to update your code like:
 ```php
 $client = new Shopify\PublicApp(/* $args */);
-
 // Get the first 25 products.
 $result = $client->get('products', ['query' => ['limit' => 25]]);
 
