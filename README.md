@@ -8,6 +8,7 @@ Features include:
 
 * ability to easily GET, PUT, POST and DELETE resources
 * process and validate incoming webhooks
+* 
 * automatic rate limiting to avoid API calls from erroring
 
 ## Setup/Installation
